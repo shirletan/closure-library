@@ -26,6 +26,7 @@ npm install google-closure-library
 
 Require the package and use goog.require normally.
 
+
 ```
 require("google-closure-library");
 
